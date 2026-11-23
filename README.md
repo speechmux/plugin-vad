@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository is archived.** `plugin-vad` now lives in
+> [speechmux/speechmux](https://github.com/speechmux/speechmux/tree/main/plugin-vad), with its
+> full history. Open issues and pull requests there.
+
 # speechmux/plugin-vad
 
 VAD (Voice Activity Detection) plugin base framework. Provides the gRPC servicer, the `VADEngine` Protocol (interface), a Dummy engine for load testing, and an `entry_points`-based engine auto-discovery system.
